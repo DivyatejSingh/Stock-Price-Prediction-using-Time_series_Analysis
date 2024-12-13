@@ -46,7 +46,3 @@ Total MSE: 2.58
 ## End Note:
   I think Model can give a good prediction for stock price to a good extent if some sudden crashes donot happen as happened in case of Yes Bank, it can be used.
   Model Can be improved by adding tweet/news sentiment analysis so that we can have some prior idea of market crash! 
-## Final Note:
-![image](https://user-images.githubusercontent.com/45662797/132523863-519bc202-fff4-4de9-bfef-d0f1c370bc02.png)
-
- Yeah so here we learnt more about Bi LSTM's I am attaching the poster that we presented in Techevinche 2020 IIT Guwahati to the community in the folder, in the poster we have said as two lstms which is nothing but bilstms
